@@ -3,8 +3,8 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: My EC2 Instance
-    url: http://your-ec2-public-ip-or-domain
+  - name: EC2 - TA
+    url: http://ec2-13-250-112-203.ap-southeast-1.compute.amazonaws.com:3000
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
