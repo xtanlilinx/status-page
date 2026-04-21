@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec2-13-250-112-203.ap-southeast-1.compute.amazonaws.com.ico",
     "slug": "ec-2-ta",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.13%",
+    "uptimeDay": "65.61%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "96.13%",
     "time": 443,
-    "timeDay": 506,
-    "timeWeek": 426,
+    "timeDay": 0,
+    "timeWeek": 429,
     "timeMonth": 443,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2026-04-20": 0
+      "2026-04-21": 116,
+      "2026-04-20": 379
     }
   },
   {
@@ -31,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 66,
-    "timeWeek": 92,
+    "timeDay": 96,
+    "timeWeek": 95,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 52,
-    "timeWeek": 135,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 158,
+    "timeDay": 248,
+    "timeWeek": 144,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 380,
-    "timeWeek": 272,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 303,
+    "timeDay": 443,
+    "timeWeek": 295,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
